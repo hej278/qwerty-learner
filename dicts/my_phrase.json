@@ -1,0 +1,470 @@
+[
+ {
+  "name": "depend heavily on",
+  "trans": [
+   "严重依赖"
+  ]
+ },
+ {
+  "name": "rest on",
+  "trans": [
+   "取决于"
+  ]
+ },
+ {
+  "name": "be tied to",
+  "trans": [
+   "与…紧密相关"
+  ]
+ },
+ {
+  "name": "come down to",
+  "trans": [
+   "归根结底在于"
+  ]
+ },
+ {
+  "name": "be rooted in",
+  "trans": [
+   "根源于"
+  ]
+ },
+ {
+  "name": "come from",
+  "trans": [
+   "来自"
+  ]
+ },
+ {
+  "name": "stem from",
+  "trans": [
+   "源自"
+  ]
+ },
+ {
+  "name": "be shaped by",
+  "trans": [
+   "受…塑造"
+  ]
+ },
+ {
+  "name": "be driven by",
+  "trans": [
+   "由…驱动"
+  ]
+ },
+ {
+  "name": "hinge on",
+  "trans": [
+   "取决于"
+  ]
+ },
+ {
+  "name": "reach a point",
+  "trans": [
+   "到了…的地步"
+  ]
+ },
+ {
+  "name": "reach a stage",
+  "trans": [
+   "到了…的阶段"
+  ]
+ },
+ {
+  "name": "come to a head",
+  "trans": [
+   "到达紧要关头"
+  ]
+ },
+ {
+  "name": "run into",
+  "trans": [
+   "遭遇（问题）"
+  ]
+ },
+ {
+  "name": "come up against",
+  "trans": [
+   "遇到（阻力）"
+  ]
+ },
+ {
+  "name": "have an issue with",
+  "trans": [
+   "对…有意见"
+  ]
+ },
+ {
+  "name": "come up",
+  "trans": [
+   "出现"
+  ]
+ },
+ {
+  "name": "raise an issue",
+  "trans": [
+   "提出问题"
+  ]
+ },
+ {
+  "name": "impact",
+  "trans": [
+   "影响"
+  ]
+ },
+ {
+  "name": "interfere with",
+  "trans": [
+   "干扰"
+  ]
+ },
+ {
+  "name": "get in the way of",
+  "trans": [
+   "阻碍"
+  ]
+ },
+ {
+  "name": "affect negatively",
+  "trans": [
+   "造成负面影响"
+  ]
+ },
+ {
+  "name": "effect",
+  "trans": [
+   "效果"
+  ]
+ },
+ {
+  "name": "force",
+  "trans": [
+   "迫使"
+  ]
+ },
+ {
+  "name": "pressure sb into doing",
+  "trans": [
+   "逼迫某人做"
+  ]
+ },
+ {
+  "name": "relieve stress",
+  "trans": [
+   "缓解压力"
+  ]
+ },
+ {
+  "name": "ease stress",
+  "trans": [
+   "减轻压力"
+  ]
+ },
+ {
+  "name": "manage stress",
+  "trans": [
+   "管理压力"
+  ]
+ },
+ {
+  "name": "reduce stress",
+  "trans": [
+   "减少压力"
+  ]
+ },
+ {
+  "name": "arrange for",
+  "trans": [
+   "安排"
+  ]
+ },
+ {
+  "name": "outweigh",
+  "trans": [
+   "胜过、大于"
+  ]
+ },
+ {
+  "name": "make up for",
+  "trans": [
+   "弥补"
+  ]
+ },
+ {
+  "name": "offset",
+  "trans": [
+   "抵消"
+  ]
+ },
+ {
+  "name": "verify",
+  "trans": [
+   "核实"
+  ]
+ },
+ {
+  "name": "confirm",
+  "trans": [
+   "证实"
+  ]
+ },
+ {
+  "name": "parts",
+  "trans": [
+   "部分"
+  ]
+ },
+ {
+  "name": "studies",
+  "trans": [
+   "研究（复数）"
+  ]
+ },
+ {
+  "name": "subjects",
+  "trans": [
+   "研究对象"
+  ]
+ },
+ {
+  "name": "topics",
+  "trans": [
+   "话题"
+  ]
+ },
+ {
+  "name": "fields",
+  "trans": [
+   "领域"
+  ]
+ },
+ {
+  "name": "coursework",
+  "trans": [
+   "课业"
+  ]
+ },
+ {
+  "name": "assignments",
+  "trans": [
+   "作业"
+  ]
+ },
+ {
+  "name": "receipts",
+  "trans": [
+   "收据"
+  ]
+ },
+ {
+  "name": "sound system",
+  "trans": [
+   "音响系统"
+  ]
+ },
+ {
+  "name": "seats",
+  "trans": [
+   "座位"
+  ]
+ },
+ {
+  "name": "at a time",
+  "trans": [
+   "一次（若干个）"
+  ]
+ },
+ {
+  "name": "improve efficiency",
+  "trans": [
+   "提高效率"
+  ]
+ },
+ {
+  "name": "put effort into",
+  "trans": [
+   "在…上投入精力"
+  ]
+ },
+ {
+  "name": "make an effort",
+  "trans": [
+   "作出努力"
+  ]
+ },
+ {
+  "name": "play an important role",
+  "trans": [
+   "起重要作用"
+  ]
+ },
+ {
+  "name": "raise money",
+  "trans": [
+   "筹钱"
+  ]
+ },
+ {
+  "name": "raise funds",
+  "trans": [
+   "筹集资金"
+  ]
+ },
+ {
+  "name": "work out a schedule",
+  "trans": [
+   "制定出日程"
+  ]
+ },
+ {
+  "name": "set up a time",
+  "trans": [
+   "约定时间"
+  ]
+ },
+ {
+  "name": "get along with",
+  "trans": [
+   "与…相处"
+  ]
+ },
+ {
+  "name": "stay consistent",
+  "trans": [
+   "保持一致"
+  ]
+ },
+ {
+  "name": "hand in",
+  "trans": [
+   "提交"
+  ]
+ },
+ {
+  "name": "pick up",
+  "trans": [
+   "领取"
+  ]
+ },
+ {
+  "name": "be replaced by",
+  "trans": [
+   "被…取代"
+  ]
+ },
+ {
+  "name": "carry out",
+  "trans": [
+   "执行"
+  ]
+ },
+ {
+  "name": "push forward",
+  "trans": [
+   "推进"
+  ]
+ },
+ {
+  "name": "guidance",
+  "trans": [
+   "指导"
+  ]
+ },
+ {
+  "name": "direction",
+  "trans": [
+   "方向"
+  ]
+ },
+ {
+  "name": "economic",
+  "trans": [
+   "经济的"
+  ]
+ },
+ {
+  "name": "well known",
+  "trans": [
+   "著名的"
+  ]
+ },
+ {
+  "name": "short-handed",
+  "trans": [
+   "人手不足的"
+  ]
+ },
+ {
+  "name": "with difficulty",
+  "trans": [
+   "困难地"
+  ]
+ },
+ {
+  "name": "especially",
+  "trans": [
+   "尤其"
+  ]
+ },
+ {
+  "name": "homesick",
+  "trans": [
+   "想家的"
+  ]
+ },
+ {
+  "name": "a person's character",
+  "trans": [
+   "一个人的性格"
+  ]
+ },
+ {
+  "name": "everything",
+  "trans": [
+   "一切"
+  ]
+ },
+ {
+  "name": "the chance of making mistakes",
+  "trans": [
+   "犯错的可能性"
+  ]
+ },
+ {
+  "name": "interests",
+  "trans": [
+   "兴趣"
+  ]
+ },
+ {
+  "name": "rights",
+  "trans": [
+   "权利"
+  ]
+ },
+ {
+  "name": "developing countries",
+  "trans": [
+   "发展中国家"
+  ]
+ },
+ {
+  "name": "low-income countries",
+  "trans": [
+   "低收入国家"
+  ]
+ },
+ {
+  "name": "the aim is to",
+  "trans": [
+   "目的是"
+  ]
+ },
+ {
+  "name": "the point is to",
+  "trans": [
+   "要点在于"
+  ]
+ }
+]

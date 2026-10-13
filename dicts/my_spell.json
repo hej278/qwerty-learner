@@ -1,0 +1,1070 @@
+[
+ {
+  "name": "about",
+  "trans": [
+   "关于"
+  ]
+ },
+ {
+  "name": "abroad",
+  "trans": [
+   "在国外"
+  ]
+ },
+ {
+  "name": "absent",
+  "trans": [
+   "缺席的"
+  ]
+ },
+ {
+  "name": "accept",
+  "trans": [
+   "接受"
+  ]
+ },
+ {
+  "name": "adapt",
+  "trans": [
+   "适应"
+  ]
+ },
+ {
+  "name": "additional",
+  "trans": [
+   "额外的"
+  ]
+ },
+ {
+  "name": "administrators",
+  "trans": [
+   "管理者"
+  ]
+ },
+ {
+  "name": "advantageous",
+  "trans": [
+   "有利的"
+  ]
+ },
+ {
+  "name": "advantages",
+  "trans": [
+   "优势"
+  ]
+ },
+ {
+  "name": "agriculture",
+  "trans": [
+   "农业"
+  ]
+ },
+ {
+  "name": "allow",
+  "trans": [
+   "使能够"
+  ]
+ },
+ {
+  "name": "although",
+  "trans": [
+   "虽然"
+  ]
+ },
+ {
+  "name": "amount",
+  "trans": [
+   "数量"
+  ]
+ },
+ {
+  "name": "approach",
+  "trans": [
+   "应对方式"
+  ]
+ },
+ {
+  "name": "art",
+  "trans": [
+   "艺术"
+  ]
+ },
+ {
+  "name": "artistic",
+  "trans": [
+   "艺术的"
+  ]
+ },
+ {
+  "name": "assignments",
+  "trans": [
+   "作业"
+  ]
+ },
+ {
+  "name": "balance",
+  "trans": [
+   "平衡"
+  ]
+ },
+ {
+  "name": "because",
+  "trans": [
+   "因为"
+  ]
+ },
+ {
+  "name": "beneath",
+  "trans": [
+   "在…之下"
+  ]
+ },
+ {
+  "name": "blogger",
+  "trans": [
+   "博主"
+  ]
+ },
+ {
+  "name": "bloggers",
+  "trans": [
+   "博主（复数）"
+  ]
+ },
+ {
+  "name": "carve",
+  "trans": [
+   "切割出"
+  ]
+ },
+ {
+  "name": "causes",
+  "trans": [
+   "导致"
+  ]
+ },
+ {
+  "name": "changes",
+  "trans": [
+   "变化"
+  ]
+ },
+ {
+  "name": "clocks",
+  "trans": [
+   "生物钟"
+  ]
+ },
+ {
+  "name": "coastlines",
+  "trans": [
+   "海岸线"
+  ]
+ },
+ {
+  "name": "colonies",
+  "trans": [
+   "群落"
+  ]
+ },
+ {
+  "name": "common",
+  "trans": [
+   "常见的"
+  ]
+ },
+ {
+  "name": "companies",
+  "trans": [
+   "公司（复数）"
+  ]
+ },
+ {
+  "name": "complex",
+  "trans": [
+   "复杂的"
+  ]
+ },
+ {
+  "name": "concept",
+  "trans": [
+   "概念"
+  ]
+ },
+ {
+  "name": "connection",
+  "trans": [
+   "联系"
+  ]
+ },
+ {
+  "name": "considered",
+  "trans": [
+   "被认为"
+  ]
+ },
+ {
+  "name": "controlled",
+  "trans": [
+   "受控的"
+  ]
+ },
+ {
+  "name": "cooperate",
+  "trans": [
+   "合作"
+  ]
+ },
+ {
+  "name": "countries",
+  "trans": [
+   "国家（复数）"
+  ]
+ },
+ {
+  "name": "creations",
+  "trans": [
+   "创作"
+  ]
+ },
+ {
+  "name": "crisis",
+  "trans": [
+   "危机"
+  ]
+ },
+ {
+  "name": "crucial",
+  "trans": [
+   "关键的"
+  ]
+ },
+ {
+  "name": "cultures",
+  "trans": [
+   "文化"
+  ]
+ },
+ {
+  "name": "declined",
+  "trans": [
+   "减少"
+  ]
+ },
+ {
+  "name": "democracy",
+  "trans": [
+   "民主"
+  ]
+ },
+ {
+  "name": "depressed",
+  "trans": [
+   "沮丧的"
+  ]
+ },
+ {
+  "name": "different",
+  "trans": [
+   "不同的"
+  ]
+ },
+ {
+  "name": "disadvantages",
+  "trans": [
+   "缺点"
+  ]
+ },
+ {
+  "name": "discipline",
+  "trans": [
+   "学科"
+  ]
+ },
+ {
+  "name": "discuss",
+  "trans": [
+   "讨论"
+  ]
+ },
+ {
+  "name": "economic",
+  "trans": [
+   "经济的"
+  ]
+ },
+ {
+  "name": "efficient",
+  "trans": [
+   "高效的"
+  ]
+ },
+ {
+  "name": "employees",
+  "trans": [
+   "员工（复数）"
+  ]
+ },
+ {
+  "name": "encompass",
+  "trans": [
+   "涵盖"
+  ]
+ },
+ {
+  "name": "enhances",
+  "trans": [
+   "提升"
+  ]
+ },
+ {
+  "name": "enough",
+  "trans": [
+   "足够的"
+  ]
+ },
+ {
+  "name": "enriching",
+  "trans": [
+   "丰富"
+  ]
+ },
+ {
+  "name": "equality",
+  "trans": [
+   "平等"
+  ]
+ },
+ {
+  "name": "eras",
+  "trans": [
+   "时代"
+  ]
+ },
+ {
+  "name": "establishes",
+  "trans": [
+   "建立"
+  ]
+ },
+ {
+  "name": "European",
+  "trans": [
+   "欧洲的"
+  ]
+ },
+ {
+  "name": "evaluating",
+  "trans": [
+   "评估"
+  ]
+ },
+ {
+  "name": "events",
+  "trans": [
+   "事件"
+  ]
+ },
+ {
+  "name": "example",
+  "trans": [
+   "例子"
+  ]
+ },
+ {
+  "name": "excess",
+  "trans": [
+   "过剩"
+  ]
+ },
+ {
+  "name": "exercise",
+  "trans": [
+   "锻炼"
+  ]
+ },
+ {
+  "name": "exhibits",
+  "trans": [
+   "展品"
+  ]
+ },
+ {
+  "name": "expensive",
+  "trans": [
+   "昂贵的"
+  ]
+ },
+ {
+  "name": "experienced",
+  "trans": [
+   "经历过"
+  ]
+ },
+ {
+  "name": "experiment",
+  "trans": [
+   "实验"
+  ]
+ },
+ {
+  "name": "feat",
+  "trans": [
+   "壮举"
+  ]
+ },
+ {
+  "name": "feeding",
+  "trans": [
+   "进食"
+  ]
+ },
+ {
+  "name": "field",
+  "trans": [
+   "领域"
+  ]
+ },
+ {
+  "name": "finds you",
+  "trans": [
+   "找到你"
+  ]
+ },
+ {
+  "name": "first",
+  "trans": [
+   "第一个"
+  ]
+ },
+ {
+  "name": "frequently",
+  "trans": [
+   "经常"
+  ]
+ },
+ {
+  "name": "grateful",
+  "trans": [
+   "感激的"
+  ]
+ },
+ {
+  "name": "heated",
+  "trans": [
+   "加热"
+  ]
+ },
+ {
+  "name": "hibernation",
+  "trans": [
+   "冬眠"
+  ]
+ },
+ {
+  "name": "hormone",
+  "trans": [
+   "荷尔蒙"
+  ]
+ },
+ {
+  "name": "identity",
+  "trans": [
+   "身份"
+  ]
+ },
+ {
+  "name": "illegal",
+  "trans": [
+   "非法的"
+  ]
+ },
+ {
+  "name": "impact",
+  "trans": [
+   "影响"
+  ]
+ },
+ {
+  "name": "impacts",
+  "trans": [
+   "撞击"
+  ]
+ },
+ {
+  "name": "important",
+  "trans": [
+   "重要的"
+  ]
+ },
+ {
+  "name": "include",
+  "trans": [
+   "包括"
+  ]
+ },
+ {
+  "name": "inconvenience",
+  "trans": [
+   "不便"
+  ]
+ },
+ {
+  "name": "influence",
+  "trans": [
+   "影响"
+  ]
+ },
+ {
+  "name": "innovative",
+  "trans": [
+   "创新的"
+  ]
+ },
+ {
+  "name": "intellectual",
+  "trans": [
+   "智力的"
+  ]
+ },
+ {
+  "name": "interact",
+  "trans": [
+   "相互作用"
+  ]
+ },
+ {
+  "name": "It",
+  "trans": [
+   "它"
+  ]
+ },
+ {
+  "name": "jigsaw",
+  "trans": [
+   "拼图"
+  ]
+ },
+ {
+  "name": "large",
+  "trans": [
+   "大的"
+  ]
+ },
+ {
+  "name": "leaving",
+  "trans": [
+   "留下"
+  ]
+ },
+ {
+  "name": "long",
+  "trans": [
+   "长的"
+  ]
+ },
+ {
+  "name": "look",
+  "trans": [
+   "寻找"
+  ]
+ },
+ {
+  "name": "loss",
+  "trans": [
+   "丧失"
+  ]
+ },
+ {
+  "name": "losses",
+  "trans": [
+   "损失"
+  ]
+ },
+ {
+  "name": "made",
+  "trans": [
+   "使得"
+  ]
+ },
+ {
+  "name": "maintaining",
+  "trans": [
+   "维持"
+  ]
+ },
+ {
+  "name": "manage",
+  "trans": [
+   "设法做到"
+  ]
+ },
+ {
+  "name": "meticulously",
+  "trans": [
+   "一丝不苟地"
+  ]
+ },
+ {
+  "name": "mistake",
+  "trans": [
+   "错误"
+  ]
+ },
+ {
+  "name": "mobile",
+  "trans": [
+   "移动的"
+  ]
+ },
+ {
+  "name": "models",
+  "trans": [
+   "模型"
+  ]
+ },
+ {
+  "name": "modern",
+  "trans": [
+   "现代的"
+  ]
+ },
+ {
+  "name": "multiple",
+  "trans": [
+   "多种的"
+  ]
+ },
+ {
+  "name": "narratives",
+  "trans": [
+   "叙事"
+  ]
+ },
+ {
+  "name": "natural",
+  "trans": [
+   "自然的"
+  ]
+ },
+ {
+  "name": "new",
+  "trans": [
+   "新的"
+  ]
+ },
+ {
+  "name": "now",
+  "trans": [
+   "现在"
+  ]
+ },
+ {
+  "name": "nurture",
+  "trans": [
+   "培养"
+  ]
+ },
+ {
+  "name": "nutrients",
+  "trans": [
+   "营养"
+  ]
+ },
+ {
+  "name": "of",
+  "trans": [
+   "的"
+  ]
+ },
+ {
+  "name": "particularly",
+  "trans": [
+   "尤其"
+  ]
+ },
+ {
+  "name": "peers",
+  "trans": [
+   "同龄人"
+  ]
+ },
+ {
+  "name": "perceive",
+  "trans": [
+   "感知"
+  ]
+ },
+ {
+  "name": "periods",
+  "trans": [
+   "时期"
+  ]
+ },
+ {
+  "name": "perspective",
+  "trans": [
+   "看问题的角度"
+  ]
+ },
+ {
+  "name": "philosophy",
+  "trans": [
+   "哲学"
+  ]
+ },
+ {
+  "name": "pioneered",
+  "trans": [
+   "开创"
+  ]
+ },
+ {
+  "name": "popularity",
+  "trans": [
+   "普及"
+  ]
+ },
+ {
+  "name": "preparation",
+  "trans": [
+   "准备（名词）"
+  ]
+ },
+ {
+  "name": "preparing",
+  "trans": [
+   "准备（动名词）"
+  ]
+ },
+ {
+  "name": "presentation",
+  "trans": [
+   "演示"
+  ]
+ },
+ {
+  "name": "principle",
+  "trans": [
+   "原则"
+  ]
+ },
+ {
+  "name": "private",
+  "trans": [
+   "私人的"
+  ]
+ },
+ {
+  "name": "process",
+  "trans": [
+   "过程"
+  ]
+ },
+ {
+  "name": "processes",
+  "trans": [
+   "过程"
+  ]
+ },
+ {
+  "name": "producing",
+  "trans": [
+   "产生"
+  ]
+ },
+ {
+  "name": "product",
+  "trans": [
+   "产品"
+  ]
+ },
+ {
+  "name": "provide",
+  "trans": [
+   "提供"
+  ]
+ },
+ {
+  "name": "quality",
+  "trans": [
+   "质量"
+  ]
+ },
+ {
+  "name": "remember",
+  "trans": [
+   "记得"
+  ]
+ },
+ {
+  "name": "removing",
+  "trans": [
+   "移除"
+  ]
+ },
+ {
+  "name": "renewed",
+  "trans": [
+   "重燃的"
+  ]
+ },
+ {
+  "name": "research",
+  "trans": [
+   "研究"
+  ]
+ },
+ {
+  "name": "restrooms",
+  "trans": [
+   "洗手间（复数）"
+  ]
+ },
+ {
+  "name": "reveals",
+  "trans": [
+   "揭示"
+  ]
+ },
+ {
+  "name": "rituals",
+  "trans": [
+   "仪式"
+  ]
+ },
+ {
+  "name": "schedule",
+  "trans": [
+   "日程安排"
+  ]
+ },
+ {
+  "name": "score",
+  "trans": [
+   "分数"
+  ]
+ },
+ {
+  "name": "serve",
+  "trans": [
+   "充当"
+  ]
+ },
+ {
+  "name": "sewage",
+  "trans": [
+   "污水"
+  ]
+ },
+ {
+  "name": "shells",
+  "trans": [
+   "外壳"
+  ]
+ },
+ {
+  "name": "shift",
+  "trans": [
+   "移动"
+  ]
+ },
+ {
+  "name": "signals",
+  "trans": [
+   "信号"
+  ]
+ },
+ {
+  "name": "skeletons",
+  "trans": [
+   "骨骼"
+  ]
+ },
+ {
+  "name": "slides",
+  "trans": [
+   "幻灯片（复数）"
+  ]
+ },
+ {
+  "name": "societies",
+  "trans": [
+   "社会"
+  ]
+ },
+ {
+  "name": "somewhere",
+  "trans": [
+   "某处"
+  ]
+ },
+ {
+  "name": "sounds",
+  "trans": [
+   "声音"
+  ]
+ },
+ {
+  "name": "spanning",
+  "trans": [
+   "横跨"
+  ]
+ },
+ {
+  "name": "special",
+  "trans": [
+   "特别的"
+  ]
+ },
+ {
+  "name": "speech",
+  "trans": [
+   "言语"
+  ]
+ },
+ {
+  "name": "spread",
+  "trans": [
+   "传播"
+  ]
+ },
+ {
+  "name": "square",
+  "trans": [
+   "平方的"
+  ]
+ },
+ {
+  "name": "structures",
+  "trans": [
+   "结构"
+  ]
+ },
+ {
+  "name": "study",
+  "trans": [
+   "研究"
+  ]
+ },
+ {
+  "name": "submerged",
+  "trans": [
+   "淹没的"
+  ]
+ },
+ {
+  "name": "teammate",
+  "trans": [
+   "队友"
+  ]
+ },
+ {
+  "name": "techniques",
+  "trans": [
+   "技术"
+  ]
+ },
+ {
+  "name": "times",
+  "trans": [
+   "时代"
+  ]
+ },
+ {
+  "name": "turtles",
+  "trans": [
+   "海龟"
+  ]
+ },
+ {
+  "name": "uncomfortable",
+  "trans": [
+   "不舒服的"
+  ]
+ },
+ {
+  "name": "underground",
+  "trans": [
+   "地下"
+  ]
+ },
+ {
+  "name": "understand",
+  "trans": [
+   "理解"
+  ]
+ },
+ {
+  "name": "valleys",
+  "trans": [
+   "山谷"
+  ]
+ },
+ {
+  "name": "vegetation",
+  "trans": [
+   "植被"
+  ]
+ },
+ {
+  "name": "videos",
+  "trans": [
+   "视频（复数）"
+  ]
+ },
+ {
+  "name": "visual",
+  "trans": [
+   "视觉的"
+  ]
+ },
+ {
+  "name": "volcanic",
+  "trans": [
+   "火山的"
+  ]
+ },
+ {
+  "name": "voyages",
+  "trans": [
+   "航行"
+  ]
+ },
+ {
+  "name": "who",
+  "trans": [
+   "谁"
+  ]
+ },
+ {
+  "name": "why",
+  "trans": [
+   "为什么"
+  ]
+ },
+ {
+  "name": "words",
+  "trans": [
+   "单词"
+  ]
+ },
+ {
+  "name": "workmates",
+  "trans": [
+   "同事（复数）"
+  ]
+ },
+ {
+  "name": "wrong",
+  "trans": [
+   "错误的"
+  ]
+ },
+ {
+  "name": "yet",
+  "trans": [
+   "然而"
+  ]
+ }
+]
